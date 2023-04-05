@@ -3,7 +3,7 @@
         "AONE": {
             "code": 100,
             "error": "",
-            "TT": false
+            "TT": true
         }
     }
 }
